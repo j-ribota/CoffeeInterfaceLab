@@ -1,5 +1,5 @@
 # CoffeeInterfaceLab
-Author: Jillian Ribota RedID: 824761113
+Author: Jillian Ribota 
 
 Contact me by:
 Email - jribota9637@sdsu.edu
